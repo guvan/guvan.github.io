@@ -1,0 +1,11 @@
+.my-card-title {
+	color: #186ff9;
+}
+.text-italics {
+	font-style: italic;
+	text-decoration: underline;
+}
+
+body {
+	font-family: 'Spicy Rice', cursive;
+}
